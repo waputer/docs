@@ -6,6 +6,13 @@ browser. This repository contains public documentation for working with the
 Waputer ecosystem.
 
 
+## Blog
+
+The blog is available both on [Waputer itself](https://waputer.app/blog) and a
+mirror is located here on [Github](./blog). It is updated regularly with the
+latest news on Waputer.
+
+
 ## C Hello World
 
 The hello world provides an extremely minimal example for compiling a C
