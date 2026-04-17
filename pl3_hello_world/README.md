@@ -5,7 +5,8 @@ Hello World in PL3
 ## QuickStart
 
 Use the following steps to build the application and run it in the Waputer
-terminal:
+terminal. As of writing, the compiler is only built for an x64-64 Linux
+machine. Addition support is in the works.
 
 * Downlaod the PL3 compiler via `wget https://github.com/waputer/pl3/releases/download/v1.0.0-dev9/pl3-1.0.0-dev9-bin.tar.xz`
 * Get `hello.pl3` or write your own.
