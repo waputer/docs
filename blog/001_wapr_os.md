@@ -1,12 +1,10 @@
-@class-1.0
-
 # Waputer Blog #1: Waputer as an Operating System
 
 *Friday, May 8, 2026*
 
-Today, we look at what makes Waputer tick. Having some basic understanding of
-files and directories, especially those found on Unix-like systems, will
-greatly aid in understanding. If you want to skip over some of the gory
+Today, we look at what makes Waputer tick. A basic grasp of files and
+directories, especially those found on Unix-like systems, will aid in
+understanding Waputer's internals. If you want to skip over some of the gory
 details, the Waputer by Examples section goes straight into creating your own
 Waputer configurations and sharing them with others.
 
@@ -149,8 +147,7 @@ will be a topic for a future post.
 
 Stay tuned to this blog for updates on Waputer. Posts, including updates and
 details about Waputer, will be published approximately every two weeks. The
-next post will look at the programming languages that power Waputer and its
-components such as the file system and process management.
+next post will look at the programming languages that power Waputer.
 
 
 -- Dr. Marc Andrysco
