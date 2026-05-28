@@ -205,6 +205,14 @@ active work to make Hammer a proper tool that can easily be run on Waputer in
 addition to other systems like Linux, Windows, or Mac.
 
 
+## Source Code
+
+The source code for PL3 and MIIR is bundled together at
+<https://github.com/waputer/pl3>. The MIIR code will eventually be separated
+out. Dimwit is at <https://github.com/waputer/dimwit>. Hammer is found as
+shell scripts inside each repository. All code is open source.
+
+
 ## Upcoming Post
 
 Stay tuned to this blog for updates on Waputer. Posts, including updates and
